@@ -8,4 +8,4 @@
 
 
 #### 官网
--[NSIS Fans](https://www.nsisfans.com/)
+- [NSIS Fans](https://www.nsisfans.com/)
