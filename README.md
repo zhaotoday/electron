@@ -6,6 +6,7 @@
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 - [NSIS最简单的软件打包示例，制作exe安装包](https://zhuanlan.zhihu.com/p/161378184)
 - [electron-builder打包，NSIS的一些使用总结](https://www.jianshu.com/p/cea38eb17c3a)
+- [electron-builder打包详解](https://github.com/QDMarkMan/CodeBlog/blob/master/Electron/electron-builder%E6%89%93%E5%8C%85%E8%AF%A6%E8%A7%A3.md)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
