@@ -3,6 +3,7 @@
 - [免费时间戳服务器](https://www.cnblogs.com/yanhuiandy/p/17603593.html)
 - [Electron使用electron-builder打包windows时如何签名](https://code84.com/880536.html)  
 - [创建数字证书PFX](https://juejin.cn/post/6954289571131555871)
+- [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 
 #### 项目模板
 
