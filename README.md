@@ -5,6 +5,7 @@
 - [创建数字证书PFX](https://juejin.cn/post/6954289571131555871)
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 - [NSIS最简单的软件打包示例，制作exe安装包](https://zhuanlan.zhihu.com/p/161378184)
+- [electron-builder打包，NSIS的一些使用总结](https://www.jianshu.com/p/cea38eb17c3a)
 
 #### 项目模板
 
