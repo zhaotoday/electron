@@ -10,6 +10,7 @@
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+- [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 
 #### 官网
 - [NSIS Fans](https://www.nsisfans.com/)
