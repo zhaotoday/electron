@@ -8,7 +8,7 @@
 - [electron-builder打包，NSIS的一些使用总结](https://www.jianshu.com/p/cea38eb17c3a)
 
 #### 项目模板
-
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 
 #### 官网
 - [NSIS Fans](https://www.nsisfans.com/)
