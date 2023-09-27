@@ -1,5 +1,6 @@
 #### 文章
 - [Electron 桌面应用开发从基础到进阶](https://juejin.cn/post/7202231477252538423)
+- [Electron开发实践（6）—— 应用打包](https://juejin.cn/post/7241859817563996197?searchId=2023092510080632641CA1F1D3F79B77D3)
 - [Electron 在 Windows 下的代码签名](https://oldj.net/article/2022/07/15/code-signing-with-electron-on-windows/)
 - [免费时间戳服务器](https://www.cnblogs.com/yanhuiandy/p/17603593.html)
 - [Electron使用electron-builder打包windows时如何签名](https://code84.com/880536.html)  
