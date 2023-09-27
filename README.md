@@ -22,3 +22,6 @@
 
 #### 官网
 - [NSIS Fans](https://www.nsisfans.com/)
+
+#### 工具
+- [DigiCertUtil.exe - 管理和操作数字证书](https://www.digicert.com/kb/util/ssl-certificate-renewal-using-digicert-utility-for-microsoft-servers.htm)
