@@ -9,6 +9,7 @@
 - [Electron使用electron-builder打包windows时如何签名](https://code84.com/880536.html)  
 - [创建数字证书PFX](https://juejin.cn/post/6954289571131555871)
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
+- [Electron程序用Inno Setup或NSIS生成安装包](https://m.dandelioncloud.cn/article/details/1601520379422261250)
 - [NSIS 打包脚本基础](https://www.cnblogs.com/jingmoxukong/p/5033622.html)
 - [NSIS最简单的软件打包示例，制作exe安装包](https://zhuanlan.zhihu.com/p/161378184)
 - [NSIS制作软件安装包](https://blog.csdn.net/m1223853767/article/details/79702064)
