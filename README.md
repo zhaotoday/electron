@@ -11,6 +11,7 @@
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 - [Electron程序用Inno Setup或NSIS生成安装包](https://m.dandelioncloud.cn/article/details/1601520379422261250)
 - [NSIS 打包脚本基础](https://www.cnblogs.com/jingmoxukong/p/5033622.html)
+- [NSIS 从入门到编写完整打包脚本](https://juejin.cn/post/7207410405857034301)
 - [NSIS最简单的软件打包示例，制作exe安装包](https://zhuanlan.zhihu.com/p/161378184)
 - [NSIS制作软件安装包](https://blog.csdn.net/m1223853767/article/details/79702064)
 - [如何使用nsis打包electron开发的安装程序](https://developer.aliyun.com/article/1145042)
