@@ -29,3 +29,8 @@
 #### 工具
 - [SignTool.exe - 数字签名工具](https://learn.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
 - [DigiCertUtil.exe - 管理和操作数字证书](https://www.digicert.com/kb/util/ssl-certificate-renewal-using-digicert-utility-for-microsoft-servers.htm)
+
+#### 下载
+- [NSIS](https://nsis.sourceforge.io/Download)
+- [HM NIS Edit](https://nsis.sourceforge.io/HM_NIS_Edit)
+  
