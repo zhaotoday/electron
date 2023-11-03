@@ -5,6 +5,7 @@
 - [Electron开发实践（6）—— 应用打包](https://juejin.cn/post/7241859817563996197)
 - [Electron开发实践(7)——应用升级](https://juejin.cn/post/7242562139041824824)
 - [Electron 在 Windows 下的代码签名](https://oldj.net/article/2022/07/15/code-signing-with-electron-on-windows/)
+- [得物商家客服桌面端Electron技术实践](https://juejin.cn/post/7195447709904404536)
 - [免费时间戳服务器](https://www.cnblogs.com/yanhuiandy/p/17603593.html)
 - [Electron使用electron-builder打包windows时如何签名](https://code84.com/880536.html)  
 - [创建数字证书PFX](https://juejin.cn/post/6954289571131555871)
