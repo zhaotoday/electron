@@ -18,6 +18,7 @@
 - [利用 electron 和 nsis 将前端项目打包成可安装的桌面应用](https://www.cnblogs.com/luoguixin/p/17000428.html)
 - [electron-builder打包，NSIS的一些使用总结](https://www.jianshu.com/p/cea38eb17c3a)
 - [electron-builder打包详解](https://github.com/QDMarkMan/CodeBlog/blob/master/Electron/electron-builder%E6%89%93%E5%8C%85%E8%AF%A6%E8%A7%A3.md)
+- [DuiLib 基础入门文档+视频教程（基于官方开源代码）](https://github.com/nmgwddj/duilib_tutorial)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
