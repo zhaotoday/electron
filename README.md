@@ -39,4 +39,4 @@
 #### 下载
 - [NSIS](https://nsis.sourceforge.io/Download)
 - [HM NIS Edit](https://nsis.sourceforge.io/HM_NIS_Edit)
-  
+- [Visual Studio](https://visualstudio.microsoft.com/zh-hans/downloads/)  
