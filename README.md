@@ -10,7 +10,6 @@
 - [Electron使用electron-builder打包windows时如何签名](https://code84.com/880536.html)  
 - [创建数字证书PFX](https://juejin.cn/post/6954289571131555871)
 - [electron-builder打包详解](https://github.com/QDMarkMan/CodeBlog/blob/master/Electron/electron-builder%E6%89%93%E5%8C%85%E8%AF%A6%E8%A7%A3.md)
-- [DuiLib 基础入门文档+视频教程（基于官方开源代码）](https://github.com/nmgwddj/duilib_tutorial)
 - [Electron客户端的自动升级方案-2022版](https://blog.csdn.net/happydeer/article/details/122866955)
 - [Electron 插件开发实践](https://segmentfault.com/a/1190000041833755)
 - [electron 应用开发优秀实践](https://juejin.cn/post/7129688117438578718)
