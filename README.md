@@ -23,6 +23,7 @@
 - [通过nsis和duilib实现自定义安装界面](https://www.cnblogs.com/greaton/p/16350491.html)
 - [Electron客户端的自动升级方案-2022版](https://blog.csdn.net/happydeer/article/details/122866955)
 - [Electron 插件开发实践](https://segmentfault.com/a/1190000041833755)
+- [electron 应用开发优秀实践](https://juejin.cn/post/7129688117438578718)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
