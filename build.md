@@ -1,5 +1,5 @@
 #### 构建
-- 区分 Windows 和 Mac；
+- 构建流程 Windows 和 Mac 会有差异，需要做区分；
 - 自定义 Windows 签名；
 - Mac 签名、公证；
 - 开关：环境、是否签名、Mac 是否打 zip 包；
