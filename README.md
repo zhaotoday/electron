@@ -1,4 +1,5 @@
 #### 文章
+- [超完整的Electron打包签名更新指南，这真是太酷啦！](https://juejin.cn/post/7350495799661477926)
 - [Electron 桌面应用开发从基础到进阶](https://juejin.cn/post/7202231477252538423)
 - [Electron开发实践(2)——Electron生态开发技术选型](https://juejin.cn/post/7202108826975535162)
 - [Electron开发实践(5)——原生模块调用&开发（dll,dylib,rust）](https://juejin.cn/post/7205162789156159546)
