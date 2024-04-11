@@ -17,6 +17,7 @@
 - [【Electron】macOS - electron应用如何做公证(notarization)](https://juejin.cn/post/7145043149868498980)
 - [Electron-builder 构建MacOS应用小白教程（打包 & 签名 & 公证 & 上架）](https://juejin.cn/post/7009179524520738824)
 - [在electron中获取麦克风和相机权限](https://juejin.cn/post/7345683903166119971)
+- [electron-builder允许安装时请求提升权限](https://juejin.cn/post/7346009985769832475)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
