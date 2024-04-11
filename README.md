@@ -19,6 +19,7 @@
 - [在electron中获取麦克风和相机权限](https://juejin.cn/post/7345683903166119971)
 - [electron-builder允许安装时请求提升权限](https://juejin.cn/post/7346009985769832475)
 - [electron 入门](https://juejin.cn/post/7341204410507214900)
+- [Electron 程序崩溃分析](https://juejin.cn/post/7331070714765836314)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
