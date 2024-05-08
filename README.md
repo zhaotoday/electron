@@ -32,6 +32,7 @@
 #### 证书
 - [Cheap SSL Security](https://cheapsslsecurity.com/sslproducts/codesigningcertificate.html)
 - [Code Signing Store](https://codesigningstore.com/)
+- [CheapSSLSecurity Coupon Code for May 2024](https://aboutssl.org/ssl-coupons/cheapsslsecurity-coupon-code/)
 - [Best Cheap Code Signing Certificate Providers to Buy From in 2023](https://www.cheapsslcouponcode.com/blog/who-are-the-cheapest-providers-of-code-signing-certificate)
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
