@@ -29,6 +29,10 @@
 - [SignTool.exe - 数字签名工具](https://learn.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
 - [DigiCertUtil.exe - 管理和操作数字证书](https://www.digicert.com/kb/util/ssl-certificate-renewal-using-digicert-utility-for-microsoft-servers.htm)
 
+#### 证书
+- []()
+- [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
+
 #### 相关库
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache)
 
