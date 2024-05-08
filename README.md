@@ -30,7 +30,7 @@
 - [DigiCertUtil.exe - 管理和操作数字证书](https://www.digicert.com/kb/util/ssl-certificate-renewal-using-digicert-utility-for-microsoft-servers.htm)
 
 #### 证书
-- []()
+- [Best Cheap Code Signing Certificate Providers to Buy From in 2023](https://www.cheapsslcouponcode.com/blog/who-are-the-cheapest-providers-of-code-signing-certificate)
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
 #### 相关库
