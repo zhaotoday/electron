@@ -40,6 +40,7 @@
 
 #### 相关库
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache)
+- [lowdb](https://github.com/typicode/lowdb)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
