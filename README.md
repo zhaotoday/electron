@@ -23,6 +23,7 @@
 - [electron 入门](https://juejin.cn/post/7341204410507214900)
 - [Electron 程序崩溃分析](https://juejin.cn/post/7331070714765836314)
 - [轻松打造命令行工具：探索 zx](https://github.com/lecepin/blog/blob/main/%E8%BD%BB%E6%9D%BE%E6%89%93%E9%80%A0%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%8E%A2%E7%B4%A2%20zx%20%7C%20%E8%B6%85%E6%A3%92%20NPM%20%E5%BA%93.md)
+- [利用nativefier和electron-winstaller实现将前端网站打包成桌面程序exe文件](https://www.codeleading.com/article/30402770591/)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
