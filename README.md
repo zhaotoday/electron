@@ -47,6 +47,7 @@
 - [electron-installer-dmg](https://github.com/electron-userland/electron-installer-dmg)
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation)
 - [windows-installer](https://github.com/electron/windows-installer)
+- [node-regedit](https://github.com/kessler/node-regedit)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
