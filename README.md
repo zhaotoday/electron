@@ -25,6 +25,7 @@
 - [轻松打造命令行工具：探索 zx](https://github.com/lecepin/blog/blob/main/%E8%BD%BB%E6%9D%BE%E6%89%93%E9%80%A0%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%EF%BC%9A%E6%8E%A2%E7%B4%A2%20zx%20%7C%20%E8%B6%85%E6%A3%92%20NPM%20%E5%BA%93.md)
 - [利用nativefier和electron-winstaller实现将前端网站打包成桌面程序exe文件](https://www.codeleading.com/article/30402770591/)
 - [node-gyp 实现 nodejs 调用 C++](https://juejin.cn/post/6844903971220357134)
+- [electron通过注册表打开软件](https://blog.csdn.net/weixin_44717473/article/details/114285775)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
@@ -51,6 +52,9 @@
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
+
+#### 问题
+- https://github.com/kessler/node-regedit/issues/60
 
 #### 竞品
 - [TAURI](https://tauri.app/zh-cn/)
