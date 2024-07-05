@@ -26,6 +26,7 @@
 - [利用nativefier和electron-winstaller实现将前端网站打包成桌面程序exe文件](https://www.codeleading.com/article/30402770591/)
 - [node-gyp 实现 nodejs 调用 C++](https://juejin.cn/post/6844903971220357134)
 - [electron通过注册表打开软件](https://blog.csdn.net/weixin_44717473/article/details/114285775)
+- [「桌面端」｜Electron 崩溃自行上报实现](https://juejin.cn/post/7292764000470663205)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
