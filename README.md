@@ -31,6 +31,7 @@
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+- [electron-vite](https://cn.electron-vite.org/)
 
 #### 工具
 - [SignTool.exe - 数字签名工具](https://learn.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
