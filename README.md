@@ -33,6 +33,7 @@
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 - [electron-vite](https://cn.electron-vite.org/)
 - [electron-egg](https://github.com/dromara/electron-egg)
+- [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 
 #### 工具
 - [SignTool.exe - 数字签名工具](https://learn.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
