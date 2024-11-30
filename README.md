@@ -34,6 +34,7 @@
 #### 视频教程
 - [禹神：一小时快速上手Electron，前端Electron开发教程](https://www.bilibili.com/video/BV1sE421N7M5)
 - [Electron入门到精通](https://www.bilibili.com/video/BV1xd4y1J7dB)
+- [Electron](https://www.bilibili.com/video/BV1qg4y1d7U1/)
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
