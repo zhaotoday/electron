@@ -31,6 +31,9 @@
 - [electron通过注册表打开软件](https://blog.csdn.net/weixin_44717473/article/details/114285775)
 - [「桌面端」｜Electron 崩溃自行上报实现](https://juejin.cn/post/7292764000470663205)
 
+#### 视频教程
+- [禹神：一小时快速上手Electron，前端Electron开发教程](https://www.bilibili.com/video/BV1sE421N7M5/)
+
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
