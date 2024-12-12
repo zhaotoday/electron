@@ -66,6 +66,7 @@
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
+- [Debugtron](https://github.com/pd4d10/debugtron)
 
 #### 问题
 - https://github.com/kessler/node-regedit/issues/60
