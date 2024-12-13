@@ -63,6 +63,7 @@
 - [windows-installer](https://github.com/electron/windows-installer)
 - [node-regedit](https://github.com/kessler/node-regedit#a-note-about-electron)
 - [electron-util](https://github.com/sindresorhus/electron-util)
+- [@electron/osx-sign](https://github.com/electron/osx-sign)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
