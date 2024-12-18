@@ -74,4 +74,5 @@
 - https://github.com/kessler/node-regedit/issues/60
 
 #### 竞品
-- [TAURI](https://tauri.app/zh-cn/)
+- [tauri](https://tauri.app/zh-cn/)
+- [wails](https://github.com/wailsapp/wails)
