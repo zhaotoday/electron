@@ -30,6 +30,7 @@
 - [node-gyp 实现 nodejs 调用 C++](https://juejin.cn/post/6844903971220357134)
 - [electron通过注册表打开软件](https://blog.csdn.net/weixin_44717473/article/details/114285775)
 - [「桌面端」｜Electron 崩溃自行上报实现](https://juejin.cn/post/7292764000470663205)
+- [基于notarytool对MacOS应用进行公证](https://taoofcoding.tech/blogs/2022-11-13/use-notarytool-to-notary-macos-app)
 
 #### 视频教程
 - [禹神：一小时快速上手Electron，前端Electron开发教程](https://www.bilibili.com/video/BV1sE421N7M5)
