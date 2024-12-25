@@ -40,6 +40,7 @@
 
 #### 项目模板
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+- [electron-vue3-boilerplate](https://github.com/winsoft666/electron-vue3-boilerplate)
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 - [electron-vite](https://cn.electron-vite.org/)
 - [electron-egg](https://github.com/dromara/electron-egg)
