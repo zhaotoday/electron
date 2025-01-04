@@ -68,6 +68,7 @@
 - [electron-util](https://github.com/sindresorhus/electron-util)
 - [@electron/osx-sign](https://github.com/electron/osx-sign)
 - [koffi](https://github.com/Koromix/koffi)
+- [node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
