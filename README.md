@@ -1,5 +1,6 @@
 #### 文档
 - [Windows 应用开发文档](https://learn.microsoft.com/zh-cn/windows/apps/)
+- [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
 
 #### 文章
 - [如何为Electron应用开发原生模块](https://juejin.cn/post/7316532841924345856)
