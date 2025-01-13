@@ -35,6 +35,7 @@
 - [electron集成C++编译环境](https://juejin.cn/post/7339636980266090505)
 - [electron调用第三方dll](https://juejin.cn/post/7090731721989029902)
 - [electron从入门到入门](https://juejin.cn/post/7090088327260569630)
+- [Electron 原生模块开发 & 调用实践指南](https://juejin.cn/post/7449345798658506767)
 
 #### 视频教程
 - [禹神：一小时快速上手Electron，前端Electron开发教程](https://www.bilibili.com/video/BV1sE421N7M5)
