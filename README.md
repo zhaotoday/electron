@@ -77,6 +77,7 @@
 - [koffi](https://github.com/Koromix/koffi)
 - [node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi)
 - [electron-edge-js](https://github.com/agracio/electron-edge-js)
+- [serialport](https://serialport.io/)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
