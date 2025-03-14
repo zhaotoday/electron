@@ -3,6 +3,7 @@
 - [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
 
 #### 文章
+- [electron提升软件运行权限，以管理员权限运行](https://juejin.cn/post/7473049072972185626)
 - [从架构到API，你真的掌握了Electron的全貌吗？](https://juejin.cn/post/7418085899718492160)
 - [如何为Electron应用开发原生模块](https://juejin.cn/post/7316532841924345856)
 - [超完整的Electron打包签名更新指南，这真是太酷啦！](https://juejin.cn/post/7350495799661477926)
