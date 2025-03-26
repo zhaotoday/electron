@@ -94,3 +94,5 @@
 - [tauri](https://tauri.app/zh-cn/)
 - [wails](https://github.com/wailsapp/wails)
 - [electrico](https://github.com/thomastschurtschenthaler/electrico)
+- [ppx](https://blog.pangao.vip/docs-ppx/)
+  
