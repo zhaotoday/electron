@@ -95,4 +95,4 @@
 - [wails](https://github.com/wailsapp/wails)
 - [electrico](https://github.com/thomastschurtschenthaler/electrico)
 - [ppx](https://blog.pangao.vip/docs-ppx/)
-  
+- [pywebview](https://github.com/r0x0r/pywebview)  
