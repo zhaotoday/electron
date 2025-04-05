@@ -87,6 +87,7 @@
 - [RobotJS](https://robotjs.io/)
 - [Debugtron](https://github.com/pd4d10/debugtron)
 - [Electron DevTools Installer](https://github.com/MarshallOfSound/electron-devtools-installer)
+- [electron-chromedriver](https://github.com/electron/chromedriver)
 
 #### 问题
 - https://github.com/kessler/node-regedit/issues/60
