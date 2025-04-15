@@ -3,6 +3,7 @@
 - [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
 
 #### 文章
+- [Electron 项目开机自启动](https://juejin.cn/post/7485625209132564514)
 - [Webrtc+Electron+Vue同屏涂鸦功能](https://juejin.cn/post/7418085392466870307)
 - [electron提升软件运行权限，以管理员权限运行](https://juejin.cn/post/7473049072972185626)
 - [从架构到API，你真的掌握了Electron的全貌吗？](https://juejin.cn/post/7418085899718492160)
