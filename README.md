@@ -82,6 +82,7 @@
 - [electron-edge-js](https://github.com/agracio/electron-edge-js)
 - [serialport](https://serialport.io/)
 - [node-addon-api](https://github.com/nodejs/node-addon-api)
+- [node-auto-launch](https://github.com/Teamwork/node-auto-launch)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
