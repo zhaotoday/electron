@@ -85,6 +85,7 @@
 - [serialport](https://serialport.io/)
 - [node-addon-api](https://github.com/nodejs/node-addon-api)
 - [node-auto-launch](https://github.com/Teamwork/node-auto-launch)
+- [electron-hiprint](https://github.com/CcSimple/electron-hiprint)
 
 #### 相关工具
 - [RobotJS](https://robotjs.io/)
