@@ -1,6 +1,7 @@
 #### 文档
 - [Windows 应用开发文档](https://learn.microsoft.com/zh-cn/windows/apps/)
 - [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
+- [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 #### 文章
 - [Electron 项目开机自启动](https://juejin.cn/post/7485625209132564514)
