@@ -4,6 +4,7 @@
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 #### 文章
+- [在electron中实现一个桌面悬浮球](https://juejin.cn/post/7460779695833333811)
 - [Electron 项目开机自启动](https://juejin.cn/post/7485625209132564514)
 - [Webrtc+Electron+Vue同屏涂鸦功能](https://juejin.cn/post/7418085392466870307)
 - [electron提升软件运行权限，以管理员权限运行](https://juejin.cn/post/7473049072972185626)
