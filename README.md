@@ -99,6 +99,7 @@
 - https://github.com/kessler/node-regedit/issues/60
 
 #### 竞品
+- [nw.js](https://github.com/nwjs/nw.js)
 - [react-native-windows](https://github.com/microsoft/react-native-windows)
 - [tauri](https://tauri.app/zh-cn/)
 - [wails](https://github.com/wailsapp/wails)
