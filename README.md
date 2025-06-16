@@ -73,6 +73,8 @@
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
 #### 相关库
+- [tinylibs](https://github.com/tinylibs)
+- [tinyexec](https://github.com/tinylibs/tinyexec)
 - [electron-conf](https://github.com/sindresorhus/conf)
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache)
 - [lowdb](https://github.com/typicode/lowdb)
