@@ -100,6 +100,7 @@
 
 #### 问题
 - https://github.com/kessler/node-regedit/issues/60
+- https://github.com/electron-userland/electron-builder/issues/7943#issuecomment-1853768170
 
 #### 竞品
 - [nw.js](https://github.com/nwjs/nw.js)
