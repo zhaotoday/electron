@@ -73,6 +73,7 @@
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
 #### 相关库
+- [trzsz.js](https://github.com/trzsz/trzsz.js)
 - [Motrix](https://github.com/agalwood/Motrix)
 - [electroncapture](https://github.com/steveseguin/electroncapture)
 - [tinylibs](https://github.com/tinylibs)
