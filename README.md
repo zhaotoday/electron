@@ -4,6 +4,7 @@
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 #### 文章
+- [全栈视角重塑 Electron 应用开发体验：Nest 架构、多窗口、IPC 通信全解耦](https://juejin.cn/post/7510242001598562354)
 - [【Electron】macOS - electron-egg应用如何做公证(notarization)](https://juejin.cn/post/7400329795140517939)
 - [Node.js 性能提升神器：用 Tinypool 实现多任务并行处理](https://juejin.cn/post/7450317633742733348)
 - [在electron中实现一个桌面悬浮球](https://juejin.cn/post/7460779695833333811)
