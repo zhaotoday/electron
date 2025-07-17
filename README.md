@@ -74,7 +74,8 @@
 - [Best Cheap Code Signing Certificate Providers to Buy From in 2023](https://www.cheapsslcouponcode.com/blog/who-are-the-cheapest-providers-of-code-signing-certificate)
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
-#### 相关库
+#### 开源
+- [drive-desktop](https://github.com/internxt/drive-desktop)
 - [electron-toolkit](https://github.com/alex8088/electron-toolkit)
 - [electron-trpc](https://github.com/jsonnull/electron-trpc)
 - [einf](https://github.com/ArcherGu/einf)
