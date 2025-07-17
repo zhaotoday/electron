@@ -77,6 +77,7 @@
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
 #### 开源
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled)
 - [run-electron](https://github.com/sindresorhus/run-electron)
 - [xel](https://github.com/jarek-foksa/xel)
 - [drive-desktop](https://github.com/internxt/drive-desktop)
