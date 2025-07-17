@@ -74,6 +74,7 @@
 - [SSL 盾](https://www.cncertum.com/sign.html)
 - [certum](https://www.certum.cn/)
 - [certumca](https://www.certumca.cn/codesigning.html)
+- [SSL Dragon](https://www.ssldragon.com/zh/ssl-certificates/code-signing/)
 - [环度网信](https://www.ihuandu.com/codesigning.html)
 - [Cheap SSL Security](https://cheapsslsecurity.com/sslproducts/codesigningcertificate.html)
 - [Code Signing Store](https://codesigningstore.com/)
