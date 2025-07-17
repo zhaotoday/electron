@@ -73,6 +73,7 @@
 - [SSL 盾](https://www.ssldun.cn/index.php?rp=/store/code)
 - [SSL 盾](https://www.cncertum.com/sign.html)
 - [certum](https://www.certum.cn/)
+- [certumca](https://www.certumca.cn/codesigning.html)
 - [Cheap SSL Security](https://cheapsslsecurity.com/sslproducts/codesigningcertificate.html)
 - [Code Signing Store](https://codesigningstore.com/)
 - [CheapSSLSecurity Coupon Code for May 2024](https://aboutssl.org/ssl-coupons/cheapsslsecurity-coupon-code/)
