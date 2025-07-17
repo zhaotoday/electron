@@ -70,6 +70,9 @@
 - [DigiCertUtil.exe - 管理和操作数字证书](https://www.digicert.com/kb/util/ssl-certificate-renewal-using-digicert-utility-for-microsoft-servers.htm)
 
 #### 证书
+- [SSL 盾](https://www.ssldun.cn/index.php?rp=/store/code)
+- [SSL 盾](https://www.cncertum.com/sign.html)
+- [certum](https://www.certum.cn/)
 - [Cheap SSL Security](https://cheapsslsecurity.com/sslproducts/codesigningcertificate.html)
 - [Code Signing Store](https://codesigningstore.com/)
 - [CheapSSLSecurity Coupon Code for May 2024](https://aboutssl.org/ssl-coupons/cheapsslsecurity-coupon-code/)
