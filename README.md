@@ -75,6 +75,7 @@
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
 
 #### 开源
+- [xel](https://github.com/jarek-foksa/xel)
 - [drive-desktop](https://github.com/internxt/drive-desktop)
 - [electron-toolkit](https://github.com/alex8088/electron-toolkit)
 - [electron-trpc](https://github.com/jsonnull/electron-trpc)
