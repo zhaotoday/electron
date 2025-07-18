@@ -77,6 +77,7 @@
 - [SSL Dragon](https://www.ssldragon.com/zh/ssl-certificates/code-signing/)
 - [环度网信](https://www.ihuandu.com/codesigning.html)
 - [安信证书](https://www.anxinssl.com/code-signing-certificate/)
+- [joyssl](https://www.joyssl.com/brands/Certum.html)
 - [Cheap SSL Security](https://cheapsslsecurity.com/sslproducts/codesigningcertificate.html)
 - [Code Signing Store](https://codesigningstore.com/)
 - [CheapSSLSecurity Coupon Code for May 2024](https://aboutssl.org/ssl-coupons/cheapsslsecurity-coupon-code/)
