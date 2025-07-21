@@ -83,6 +83,7 @@
 - [CheapSSLSecurity Coupon Code for May 2024](https://aboutssl.org/ssl-coupons/cheapsslsecurity-coupon-code/)
 - [Best Cheap Code Signing Certificate Providers to Buy From in 2023](https://www.cheapsslcouponcode.com/blog/who-are-the-cheapest-providers-of-code-signing-certificate)
 - [Compare Code Signing Certificate Providers](https://www.cheapsslcouponcode.com/compare/product-compare/compare-code-signing-certificate-providers)
+- [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
 - [electron-dl](https://github.com/sindresorhus/electron-dl)
