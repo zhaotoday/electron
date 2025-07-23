@@ -86,6 +86,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [51mazi](https://github.com/xiaoshengxianjun/51mazi)
 - [electron-dl](https://github.com/sindresorhus/electron-dl)
 - [rxdb](https://github.com/pubkey/rxdb)
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled)
