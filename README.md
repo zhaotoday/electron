@@ -64,6 +64,7 @@
 - [electron-prokit](https://github.com/Xutaotaotao/electron-prokit)
 
 #### 工具
+- [update.electronjs.org](https://github.com/electron/update.electronjs.org)
 - [aptabase](https://aptabase.com/)
 - [update.rocks](https://www.update.rocks/)
 - [SignTool.exe - 数字签名工具](https://learn.microsoft.com/en-us/dotnet/framework/tools/signtool-exe)
