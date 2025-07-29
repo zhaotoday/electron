@@ -87,6 +87,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [node-machine-id](https://github.com/automation-stack/node-machine-id)
 - [51mazi](https://github.com/xiaoshengxianjun/51mazi)
 - [electron-dl](https://github.com/sindresorhus/electron-dl)
 - [rxdb](https://github.com/pubkey/rxdb)
