@@ -66,6 +66,7 @@
 - [electron-prokit](https://github.com/Xutaotaotao/electron-prokit)
 
 #### 工具
+- [Visual Studio App Center](https://appcenter.ms/)
 - [update.electronjs.org](https://github.com/electron/update.electronjs.org)
 - [aptabase](https://aptabase.com/)
 - [update.rocks](https://www.update.rocks/)
