@@ -1,4 +1,5 @@
 #### 文档
+- [入门：在 Microsoft Store 中发布你的第一个应用](https://learn.microsoft.com/zh-cn/windows/apps/publish/?tabs=individual%2Cmsix-pwa-getting-started)
 - [Windows 应用开发文档](https://learn.microsoft.com/zh-cn/windows/apps/)
 - [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
