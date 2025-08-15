@@ -90,6 +90,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [electron-uikit](https://github.com/alex8088/electron-uikit)
 - [node-machine-id](https://github.com/automation-stack/node-machine-id)
 - [51mazi](https://github.com/xiaoshengxianjun/51mazi)
 - [electron-dl](https://github.com/sindresorhus/electron-dl)
