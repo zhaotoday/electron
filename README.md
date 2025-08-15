@@ -90,6 +90,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [get-installed-apps](https://github.com/Xutaotaotao/get-installed-apps)
 - [mixone-example](https://github.com/qew4/mixone-example)
 - [electron-uikit](https://github.com/alex8088/electron-uikit)
 - [node-machine-id](https://github.com/automation-stack/node-machine-id)
