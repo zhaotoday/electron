@@ -90,6 +90,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [semantic-release](https://github.com/semantic-release/semantic-release)
 - [applescript](https://www.npmjs.com/package/applescript)
 - [get-installed-apps](https://github.com/Xutaotaotao/get-installed-apps)
 - [mixone-example](https://github.com/qew4/mixone-example)
