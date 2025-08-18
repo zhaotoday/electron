@@ -5,6 +5,7 @@
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 #### 文章
+- [前端视角: PyQt6+Vue3 跨界开发实战](https://juejin.cn/post/7538737860544987175)
 - [基于Electron的Web打印解决方案：web-print-pdf技术分享](https://juejin.cn/post/7535376297616752690)
 - [全栈视角重塑 Electron 应用开发体验：Nest 架构、多窗口、IPC 通信全解耦](https://juejin.cn/post/7510242001598562354)
 - [【Electron】macOS - electron-egg应用如何做公证(notarization)](https://juejin.cn/post/7400329795140517939)
