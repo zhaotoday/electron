@@ -3,6 +3,7 @@
 - [Windows 应用开发文档](https://learn.microsoft.com/zh-cn/windows/apps/)
 - [koffi 中文](https://nongchatea.gitbook.io/koffi-chinese)
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
+- [Inno-Setup-Chinese-Simplified-Translation](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation)
 
 #### 文章
 - [前端视角: PyQt6+Vue3 跨界开发实战](https://juejin.cn/post/7538737860544987175)
