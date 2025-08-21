@@ -6,7 +6,7 @@ provider: generic
 url: https://releases.xxx.com/test/client/win/x64/
 ```
 
-update.ts：
+升级逻辑加以下代码：
 ```ts
 import path from 'path';
 import fs from 'fs';
