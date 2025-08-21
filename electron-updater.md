@@ -1,6 +1,6 @@
 #### 修复开发模式下升级无法使用的 Bug：
 
-在根目录创建 dev-app-update.yml 文件：
+在根目录创建 dev-app-update.yml：
 ```yml
 provider: generic
 url: https://releases.xxx.com/test/client/win/x64/
