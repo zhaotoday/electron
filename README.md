@@ -92,6 +92,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [node-win32-api](https://github.com/waitingsong/node-win32-api)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [applescript](https://www.npmjs.com/package/applescript)
 - [get-installed-apps](https://github.com/Xutaotaotao/get-installed-apps)
