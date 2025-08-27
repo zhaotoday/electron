@@ -143,6 +143,7 @@
 - https://github.com/electron-userland/electron-builder/issues/7943#issuecomment-1853768170
 
 #### 竞品
+- [neutralinojs](https://github.com/neutralinojs/neutralinojs)
 - [NativePHP/electron](https://github.com/NativePHP/electron)
 - [nw.js](https://github.com/nwjs/nw.js)
 - [react-native-windows](https://github.com/microsoft/react-native-windows)
