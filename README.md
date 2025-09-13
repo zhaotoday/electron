@@ -93,6 +93,8 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [universal](https://github.com/electron/universal)
+- [osx-sign](https://github.com/electron/osx-sign)
 - [notarize](https://github.com/electron/notarize)
 - [windows-sign](https://github.com/electron/windows-sign)
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)
@@ -127,7 +129,6 @@
 - [windows-installer](https://github.com/electron/windows-installer)
 - [node-regedit](https://github.com/kessler/node-regedit#a-note-about-electron)
 - [electron-util](https://github.com/sindresorhus/electron-util)
-- [@electron/osx-sign](https://github.com/electron/osx-sign)
 - [koffi](https://github.com/Koromix/koffi)
 - [node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi)
 - [electron-edge-js](https://github.com/agracio/electron-edge-js)
