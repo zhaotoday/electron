@@ -93,6 +93,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [node-rcedit](https://github.com/electron/node-rcedit)
 - [universal](https://github.com/electron/universal)
 - [osx-sign](https://github.com/electron/osx-sign)
 - [notarize](https://github.com/electron/notarize)
