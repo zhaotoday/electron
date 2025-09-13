@@ -93,6 +93,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [windows-sign](https://github.com/electron/windows-sign)
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu)
 - [update-electron-app](https://github.com/electron/update-electron-app)
 - [node-win32-api](https://github.com/waitingsong/node-win32-api)
