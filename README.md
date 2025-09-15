@@ -93,6 +93,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [billd-desk](https://github.com/galaxy-s10/billd-desk)
 - [asar](https://github.com/electron/asar)
 - [devtron](https://github.com/electron/devtron)
 - [menubar](https://github.com/max-mapper/menubar)
