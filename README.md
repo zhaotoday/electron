@@ -93,6 +93,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [screenshots](https://github.com/nashaofu/screenshots)
 - [electron-installer-zip](https://github.com/electron-userland/electron-installer-zip)
 - [electron-installer-windows](https://github.com/electron-userland/electron-installer-windows)
 - [electron-wix-msi](https://github.com/electron-userland/electron-wix-msi)
