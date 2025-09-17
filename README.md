@@ -7,6 +7,7 @@
 - [Windows 应用开发 - 窗口函数](https://learn.microsoft.com/zh-cn/windows/win32/winmsg/window-functions?redirectedfrom=MSDN)
 
 #### 文章
+- [Electron 调试方法实践指南](https://juejin.cn/post/7452869509713281058)
 - [前端视角: PyQt6+Vue3 跨界开发实战](https://juejin.cn/post/7538737860544987175)
 - [基于Electron的Web打印解决方案：web-print-pdf技术分享](https://juejin.cn/post/7535376297616752690)
 - [全栈视角重塑 Electron 应用开发体验：Nest 架构、多窗口、IPC 通信全解耦](https://juejin.cn/post/7510242001598562354)
