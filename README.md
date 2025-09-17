@@ -94,6 +94,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [napi-rs](https://napi.rs/cn)
 - [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer)
 - [billd-desk](https://github.com/galaxy-s10/billd-desk)
 - [asar](https://github.com/electron/asar)
