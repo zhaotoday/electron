@@ -96,6 +96,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [MS-365-Electron](https://github.com/agam778/MS-365-Electron)
 - [electron-squirrel-startup](https://github.com/mongodb-js/electron-squirrel-startup)
 - [napi-rs](https://napi.rs/cn)
 - [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer)
