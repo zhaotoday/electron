@@ -96,6 +96,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [electron-ipc-decorator](https://github.com/Innei/electron-ipc-decorator)
 - [MS-365-Electron](https://github.com/agam778/MS-365-Electron)
 - [electron-squirrel-startup](https://github.com/mongodb-js/electron-squirrel-startup)
 - [napi-rs](https://napi.rs/cn)
