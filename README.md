@@ -7,6 +7,7 @@
 - [Windows 应用开发 - 窗口函数](https://learn.microsoft.com/zh-cn/windows/win32/winmsg/window-functions?redirectedfrom=MSDN)
 
 #### 文章
+- [🍎 Electron 桌面端应用合法性问题全流程解决指南（新手友好版）](https://juejin.cn/post/7569987064688623650)
 - [Electron中IPC 通信的最佳实践](https://juejin.cn/post/7480900772387569727)
 - [教你利用rust给electron提升性能](https://juejin.cn/post/7507386170184826919)
 - [Electron 调试方法实践指南](https://juejin.cn/post/7452869509713281058)
