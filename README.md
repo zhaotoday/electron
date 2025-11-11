@@ -98,6 +98,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [electron-screen-recorder](https://github.com/hokein/electron-screen-recorder)
 - [electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer)
 - [rubick](https://github.com/rubickCenter/rubick)
 - [electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
