@@ -97,6 +97,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [rubick](https://github.com/rubickCenter/rubick)
 - [electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
 - [electron-ipc-decorator](https://github.com/Innei/electron-ipc-decorator)
 - [MS-365-Electron](https://github.com/agam778/MS-365-Electron)
