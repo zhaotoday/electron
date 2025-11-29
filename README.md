@@ -98,6 +98,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
 - [Valdi](https://github.com/Snapchat/Valdi)
 - [tts-vue](https://github.com/LokerL/tts-vue)
 - [electron-screen-recorder](https://github.com/hokein/electron-screen-recorder)
