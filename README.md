@@ -75,6 +75,7 @@
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 - [electron-prokit](https://github.com/Xutaotaotao/electron-prokit)
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template)
+- [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo)
 
 #### 工具
 - [Visual Studio App Center](https://appcenter.ms/)
