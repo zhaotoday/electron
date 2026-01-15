@@ -101,6 +101,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [tipc](https://github.com/egoist/tipc)
 - [HuLa](https://github.com/HuLaSpark/HuLa)
 - [uiohook-napi](https://github.com/SnosMe/uiohook-napi)
 - [Valdi](https://github.com/Snapchat/Valdi)
