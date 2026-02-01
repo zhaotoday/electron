@@ -7,6 +7,7 @@
 - [Windows 应用开发 - 窗口函数](https://learn.microsoft.com/zh-cn/windows/win32/winmsg/window-functions?redirectedfrom=MSDN)
 
 #### 文章
+- [Electron 自动更新全攻略：从 0 到 1 实现企业级 AppUpdater 组件（附完整代码）](https://juejin.cn/post/7535006257344577588)
 - [Electron中添加 License 激活系统集开发步骤](https://juejin.cn/post/7513962242435465256)
 - [electron+robotjs实现自动化办公功能，使用robotjs时的报错解决](https://juejin.cn/post/7485414108277424163)
 - [electron 打包 mac程序环境配置](https://www.cnblogs.com/navyum/p/18509393)
