@@ -10,6 +10,7 @@
 - [purechat](https://docs.purechat.cn/)
 
 #### 文章
+- [跨平台框架怎么选：16 个框架全景对比（2026 版）](https://juejin.cn/post/7602133286643220530)
 - [Electron 自动更新全攻略：从 0 到 1 实现企业级 AppUpdater 组件（附完整代码）](https://juejin.cn/post/7535006257344577588)
 - [Electron中添加 License 激活系统集开发步骤](https://juejin.cn/post/7513962242435465256)
 - [electron+robotjs实现自动化办公功能，使用robotjs时的报错解决](https://juejin.cn/post/7485414108277424163)
