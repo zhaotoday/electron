@@ -6,6 +6,9 @@
 - [Inno-Setup-Chinese-Simplified-Translation](https://github.com/kira-96/Inno-Setup-Chinese-Simplified-Translation)
 - [Windows 应用开发 - 窗口函数](https://learn.microsoft.com/zh-cn/windows/win32/winmsg/window-functions?redirectedfrom=MSDN)
 
+#### 网站
+- [软件开发者反馈页面](https://open.soft.360.cn/report.php)
+
 #### 产品
 - [purechat](https://docs.purechat.cn/)
 
