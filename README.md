@@ -190,6 +190,7 @@
 - https://github.com/electron-userland/electron-builder/issues/7943#issuecomment-1853768170
 
 #### 竞品
+- [nodegui](https://github.com/nodegui/nodegui)
 - [electrobun](https://github.com/blackboardsh/electrobun)
 - [gpui](https://www.gpui.rs/)
 - [neutralinojs](https://github.com/neutralinojs/neutralinojs)
