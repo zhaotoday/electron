@@ -76,6 +76,7 @@
 - [Electron](https://www.bilibili.com/video/BV1qg4y1d7U1/)
 
 #### 项目模板
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template)
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 - [electron-vue3-boilerplate](https://github.com/winsoft666/electron-vue3-boilerplate)
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
