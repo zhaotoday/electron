@@ -76,8 +76,6 @@
 - [Electron](https://www.bilibili.com/video/BV1qg4y1d7U1/)
 
 #### 项目模板
-- [nodepress](https://github.com/surmon-china/nodepress)
-- [nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api)
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron)
 - [clhoria-template](https://github.com/zhe-qi/clhoria-template)
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
@@ -115,8 +113,6 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
-- [nestjs-rbac](https://github.com/sergey-telpuk/nestjs-rbac)
-- [nestjs-microservices](https://github.com/BackendWorks/nestjs-microservices)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
 - [tipc](https://github.com/egoist/tipc)
 - [HuLa](https://github.com/HuLaSpark/HuLa)
