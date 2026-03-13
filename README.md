@@ -113,6 +113,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [nestjs-rbac](https://github.com/sergey-telpuk/nestjs-rbac)
 - [nestjs-microservices](https://github.com/BackendWorks/nestjs-microservices)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
 - [tipc](https://github.com/egoist/tipc)
