@@ -76,6 +76,7 @@
 - [Electron](https://www.bilibili.com/video/BV1qg4y1d7U1/)
 
 #### 项目模板
+- [nodepress](https://github.com/surmon-china/nodepress)
 - [nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api)
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron)
 - [clhoria-template](https://github.com/zhe-qi/clhoria-template)
