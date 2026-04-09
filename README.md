@@ -113,6 +113,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [electron-demo](https://gitee.com/sharetoyouclub/electron-demo)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
 - [tipc](https://github.com/egoist/tipc)
 - [HuLa](https://github.com/HuLaSpark/HuLa)
