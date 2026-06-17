@@ -114,6 +114,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [electron-ipc-auto-import](https://github.com/yyues/electron-ipc-auto-import)
 - [electron-demo](https://gitee.com/sharetoyouclub/electron-demo)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
 - [tipc](https://github.com/egoist/tipc)
