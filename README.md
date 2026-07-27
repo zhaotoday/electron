@@ -115,6 +115,7 @@
 - [certbase](https://certbase.com/code-signing-certificates)
 
 #### 开源
+- [wdio-electron-service](https://github.com/webdriverio-community/wdio-electron-service)
 - [electron-ipc-auto-import](https://github.com/yyues/electron-ipc-auto-import)
 - [electron-demo](https://gitee.com/sharetoyouclub/electron-demo)
 - [electron-shadcn](https://github.com/LuanRoger/electron-shadcn)
