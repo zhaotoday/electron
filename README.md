@@ -197,6 +197,7 @@
 - https://github.com/electron-userland/electron-builder/issues/7943#issuecomment-1853768170
 
 #### 竞品
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 - [EziApp](https://eziapp.dev/)
 - [sciter-js-sdk](https://gitlab.com/sciter-engine/sciter-js-sdk)
 - [nodegui](https://github.com/nodegui/nodegui)
