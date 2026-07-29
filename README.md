@@ -197,6 +197,7 @@
 - https://github.com/electron-userland/electron-builder/issues/7943#issuecomment-1853768170
 
 #### 竞品
+- [pocketjs](https://github.com/pocket-stack/pocketjs)
 - [Native SDK](https://github.com/vercel-labs/native)
 - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 - [EziApp](https://eziapp.dev/)
