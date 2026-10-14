@@ -90,6 +90,7 @@
 - [electron-vite-monorepo](https://github.com/buqiyuan/electron-vite-monorepo)
 
 #### 工具
+- [forge](https://github.com/electron/forge)
 - [hotkey-detective](https://github.com/ITachiLab/hotkey-detective)
 - [Visual Studio App Center](https://appcenter.ms/)
 - [update.electronjs.org](https://github.com/electron/update.electronjs.org)
